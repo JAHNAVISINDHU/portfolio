@@ -16,7 +16,6 @@
 ## 🌐 Live Preview
 
 > 🔗 **[https://v0-personal-portfolio-website-orpin-zeta.vercel.app/](https://v0-personal-portfolio-website-orpin-zeta.vercel.app/)**
-
 Deployed on **Vercel** with zero-config CI/CD — blazing fast, globally distributed.
 
 ---
